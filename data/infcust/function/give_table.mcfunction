@@ -1,0 +1,1 @@
+give @s item_frame[custom_name=[{"text":"Magic Table","italic":false}],custom_data={inf_magic_table:1},entity_data={id:"item_frame",Invisible:1b,Tags:["inf_magic_table"]}]
