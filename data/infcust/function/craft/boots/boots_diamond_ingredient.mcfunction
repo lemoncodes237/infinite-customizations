@@ -1,0 +1,1 @@
+execute if items entity @s container.0 rotten_flesh run return run scoreboard players add #temp inf-hp 1

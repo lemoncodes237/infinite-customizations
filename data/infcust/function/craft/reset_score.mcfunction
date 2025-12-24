@@ -1,0 +1,1 @@
+scoreboard players set #temp inf-hp 0

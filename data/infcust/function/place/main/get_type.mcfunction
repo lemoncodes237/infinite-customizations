@@ -1,0 +1,1 @@
+execute if entity @s[tag=inf_boots] run scoreboard players set #type inf-id 1

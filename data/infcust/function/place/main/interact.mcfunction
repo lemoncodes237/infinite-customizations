@@ -9,7 +9,7 @@ execute if items entity @a[tag=inf_player_temp,distance=..15,limit=1,sort=neares
 execute if items entity @a[tag=inf_player_temp,distance=..15,limit=1,sort=nearest] weapon.mainhand #swords run tag @s add inf_sword
 execute if items entity @a[tag=inf_player_temp,distance=..15,limit=1,sort=nearest] weapon.mainhand #pickaxes run tag @s add inf_pickaxe
 
-summon item ~ ~1.1 ~ {Tags:["inf_ingredient"],NoGravity:1b,PickupDelay:32767,Item:{id:"grass_block",count:1},Age:-32768}
+summon item ~ ~1.1 ~ {Tags:["inf_ingredient","inf_main"],NoGravity:1b,PickupDelay:32767,Item:{id:"grass_block",count:1},Age:-32768}
 execute positioned ~ ~1.1 ~ run data modify entity @e[type=item,distance=..0,limit=1,tag=inf_ingredient] Item set from entity @a[tag=inf_player_temp,distance=..15,limit=1,sort=nearest] SelectedItem
 execute positioned ~ ~1.1 ~ run data modify entity @e[type=item,distance=..0,limit=1,tag=inf_ingredient] Item.count set value 1
 

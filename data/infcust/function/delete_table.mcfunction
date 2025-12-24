@@ -1,3 +1,6 @@
+execute as @e[type=item,tag=inf_ingredient,distance=..2] run data merge entity @s {PickupDelay:0,NoGravity:false}
+execute as @e[type=item,tag=inf_ingredient,distance=..2] run tp ~ ~-1 ~
+
 kill @e[type=interaction,tag=inf_magic,distance=..2]
 kill @e[type=block_display,distance=..2]
 kill @s
