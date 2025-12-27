@@ -5,3 +5,4 @@ tag @s remove inf_leggings
 tag @s remove inf_boots
 tag @s remove inf_sword
 tag @s remove inf_pickaxe
+tag @s remove inf_already_crafted

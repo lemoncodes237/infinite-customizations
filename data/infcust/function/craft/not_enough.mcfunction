@@ -1,0 +1,2 @@
+playsound block.anvil.place master @a[tag=inf_crafter,distance=..20,limit=1] ~ ~ ~ 1
+title @a[tag=inf_crafter,distance=..20,limit=1] actionbar [{"text":"You need ","color":"red"},{"score":{"name":"#temp","objective":"inf-cost"},"color":"red"},{"text":" levels for this craft!","color":"red"}]

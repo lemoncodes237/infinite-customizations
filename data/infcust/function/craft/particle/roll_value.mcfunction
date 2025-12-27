@@ -1,0 +1,1 @@
+$data modify entity @s Item.components."minecraft:lore" append value [{"text":"$(name)","color":$(color),"italic":false}, {"text":" [$(rollvalue)%]","color":$(rollcolor),"italic":false}]

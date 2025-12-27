@@ -1,0 +1,21 @@
+{
+  "anvil_cost": 1000,
+  "description": {
+    "text": "Unenchantable",
+    "color": "red"
+  },
+  "max_cost": {
+    "base": 75,
+    "per_level_above_first": 25
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 75,
+    "per_level_above_first": 25
+  },
+  "slots": [
+    "any"
+  ],
+  "supported_items": "#minecraft:enchantable/durability",
+  "weight": 2
+}

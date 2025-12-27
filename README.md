@@ -1,1 +1,1 @@
-Welcome to Diamond Spells, a wand datapack for Minecraft 1.21.4!
+Infinite Customizations!
