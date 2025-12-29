@@ -1,0 +1,1 @@
+execute if items entity @s container.0 slime_ball run function infcust:craft/ingredients/slime_ball

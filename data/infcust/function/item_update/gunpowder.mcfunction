@@ -1,3 +1,5 @@
-data modify entity @s Item.components."minecraft:lore" set value [[{"text":"Common Universal Armor Ingredient","italic":false,"color":"gray"}],[{"text":""}],[{"text":"+0.1 to +0.2 Armor","italic":false,"color":"green"}],[{"text":" "}],[{"text":"+0 XP Cost","italic":false,"color":"dark_green"}]]
+data modify entity @s Item.components."minecraft:lore" set value [[{"text":"Common Universal Armor Ingredient","italic":false,"color":"gray"}],[{"text":""}],[{"text":"+1 Blast Protection","italic":false,"color":"aqua"}],[{"text":" "}],[{"text":"+0 XP Cost","italic":false,"color":"dark_green"}]]
+
 data modify entity @s Item.components."minecraft:custom_data" set value {inf_ing:1b,inf_rarity:1b,inf_boots_diamond:1b,inf_boots_emerald:1b,inf_boots_netherite:1b,inf_boots_gold:1b,inf_leggings_diamond:1b,inf_leggings_emerald:1b,inf_leggings_netherite:1b,inf_leggings_gold:1b,inf_chestplate_diamond:1b,inf_chestplate_emerald:1b,inf_chestplate_netherite:1b,inf_chestplate_gold:1b,inf_helmet_diamond:1b,inf_helmet_emerald:1b,inf_helmet_netherite:1b,inf_helmet_gold:1b}
-data modify entity @s Item.components."minecraft:custom_data".name set value "Rotten Flesh"
+
+data modify entity @s Item.components."minecraft:custom_data".name set value "Gunpowder"

@@ -1,4 +1,4 @@
-data modify storage infcust:craft name set from entity @s Item.components."minecraft:item_name"
+data modify storage infcust:craft name set from entity @s Item.components."minecraft:custom_data".name
 data modify storage infcust:craft color set value "aqua"
 execute store result storage infcust:craft rollvalue int 1 run scoreboard players get #diamondrv inf-id
 execute if score #diamondrv inf-id matches 0..20 run data modify storage infcust:craft rollcolor set value "dark_red"

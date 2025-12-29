@@ -1,0 +1,1 @@
+$data modify entity @s Item.components."minecraft:enchantments"."$(header):$(enchantment)" set value $(amount)

@@ -5,6 +5,8 @@ scoreboard players set #temp inf-armor 0
 scoreboard players set #temp inf-toughness 0
 scoreboard players set #temp inf-kbres 0
 scoreboard players set #temp inf-atkspd 0
+scoreboard players set #temp inf-jump 0
+scoreboard players set #temp inf-falldist 0
 
 scoreboard players set #temp inf-cost 0
 scoreboard players set #temp inf-ingredients 0
@@ -13,3 +15,26 @@ scoreboard players set #diamondrv inf-id -1
 scoreboard players set #emeraldrv inf-id -1
 scoreboard players set #netheriterv inf-id -1
 scoreboard players set #goldrv inf-id -1
+
+scoreboard players set #temp inf-prot 0
+scoreboard players set #temp inf-projprot 0
+scoreboard players set #temp inf-blastprot 0
+scoreboard players set #temp inf-fireprot 0
+scoreboard players set #temp inf-sharpness 0
+scoreboard players set #temp inf-unbreaking 0
+scoreboard players set #temp inf-mending 0
+scoreboard players set #temp inf-efficiency 0
+scoreboard players set #temp inf-thorns 0
+scoreboard players set #temp inf-respiration 0
+scoreboard players set #temp inf-featherfalling 0
+scoreboard players set #temp inf-sweepingedge 0
+scoreboard players set #temp inf-looting 0
+scoreboard players set #temp inf-fireaspect 0
+scoreboard players set #temp inf-swiftsneak 0
+scoreboard players set #temp inf-depthstrider 0
+scoreboard players set #temp inf-frostwalker 0
+scoreboard players set #temp inf-soulspeed 0
+scoreboard players set #temp inf-aquaaffinity 0
+scoreboard players set #temp inf-knockback 0
+scoreboard players set #temp inf-fortune 0
+scoreboard players set #temp inf-freezeprot 0

@@ -1,4 +1,4 @@
-$execute as @a[tag=inf_player_temp,distance=..15] unless items entity @s weapon.mainhand *[custom_data~{inf_$(type)_$(gem):1}] run return 0
+$execute as @a[tag=inf_player_temp,distance=..15] unless items entity @s weapon.mainhand *[custom_data~{inf_$(type)_$(gem):1b}] run return 0
 
 tag @e[type=interaction,tag=inf_magic,distance=..0] add inf_taken
 
