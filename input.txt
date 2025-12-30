@@ -1,0 +1,18 @@
+code Name Gear Gem Rarity cost (enchantment/attribute code min max)
+
+magma_cream Magma.Cream Armor Nether Common 0 enchantment fire_protection 2 4
+nautilus_shell Nautilus.Shell Helmet Overworld Common 5 enchantment aqua_affinity 1 1 enchantment respiration 1 4
+nether_brick Nether.Brick Helmet Netherite Common 5 enchantment protection 1 2
+quartz Nether.Quartz Chestplate Nether Common 5 enchantment experience 1 1
+paper Paper Leggings Overworld Common 0 attribute knockback_resistance -10 -5 attribute movement_speed 10 30
+rabbit_hide Rabbit.Hide Leggings Overworld Common 0 attribute jump_strength 3 10
+allium Allium Pickaxe Overworld Common 0 enchantment unbreaking 1 2
+azure_bluet Azure.Bluet Helmet Nether Common 0 attribute max_health 5 15
+bamboo Bamboo Sword Universal Common 0 enchantment looting 1 1
+azalea Azalea Leggings Nether Common 0 enchantment projectile_protection 1 1
+blue_orchid Blue.Orchid Boots Overworld Common 0 enchantment depth_strider 1 1 enchantment feather_falling 1 2
+cobweb Cobweb Chestplate Nether Common 3 attribute movement_speed -15 -5 attribute scale 5 20
+flowering_azalea Flowering.Azalea Chestplate Overworld Common 3 attribute step_height 1 4
+iron_chain Iron.Chain Armor Emerald Common 5 attribute armor 2 8
+brain_coral Brain.Coral Helmet Universal Common 0 attribute attack_speed 1 2 enchantment experience 1 1
+bubble_coral Bubble.Coral Boots Universal Common 5 attribute submerged_mining_speed 20 100 enchantment depth_strider 1 1 attribute movement_speed -10 -5

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.3,
+  "ingredient": "minecraft:clay_ball",
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Diamond Helmet Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+1 to +2 Protection","italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+5 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_helmet_diamond":1,"name":"Brick"}
+},
+    "id": "minecraft:brick"
+  }
+}

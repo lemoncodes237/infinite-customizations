@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:rabbit_hide"
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Overworld Armor Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+1 to +2 Freeze Protection","italic":false,"color":"aqua"}],[{"text":"+1 to +2 Unbreaking","italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+0 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_boots_diamond":1,"inf_boots_emerald":1,"inf_leggings_diamond":1,"inf_leggings_emerald":1,"inf_chestplate_diamond":1,"inf_chestplate_emerald":1,"inf_helmet_diamond":1,"inf_helmet_emerald":1,"name":"Leather"}
+},
+    "count": 1,
+    "id": "minecraft:leather"
+  }
+}

@@ -7,6 +7,12 @@ scoreboard players set #temp inf-kbres 0
 scoreboard players set #temp inf-atkspd 0
 scoreboard players set #temp inf-jump 0
 scoreboard players set #temp inf-falldist 0
+scoreboard players set #temp inf-entityrange 0
+scoreboard players set #temp inf-blockrange 0
+scoreboard players set #temp inf-scale 0
+scoreboard players set #temp inf-miningefficiency 0
+scoreboard players set #temp inf-submergedminingspeed 0
+scoreboard players set #temp inf-stepheight 0
 
 scoreboard players set #temp inf-cost 0
 scoreboard players set #temp inf-ingredients 0
@@ -37,4 +43,6 @@ scoreboard players set #temp inf-soulspeed 0
 scoreboard players set #temp inf-aquaaffinity 0
 scoreboard players set #temp inf-knockback 0
 scoreboard players set #temp inf-fortune 0
+scoreboard players set #temp inf-silktouch 0
 scoreboard players set #temp inf-freezeprot 0
+scoreboard players set #temp inf-experience 0

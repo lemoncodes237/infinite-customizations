@@ -1,5 +1,7 @@
 scoreboard players add #temp inf-ingredients 1
 
+function infcust:craft/sword/sword_ingredient
+
 execute if items entity @s container.0 fire_charge run function infcust:craft/ingredients/fire_charge
 
 scoreboard players operation #netheriterv inf-id = #rollvalue inf-id

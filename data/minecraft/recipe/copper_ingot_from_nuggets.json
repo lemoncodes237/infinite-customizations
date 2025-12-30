@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "copper_ingot",
+  "key": {
+    "#": "minecraft:copper_nugget"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Universal Armor Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+0.1 to +0.3 Armor Toughness","italic":false,"color":"green"}],[{"text":""}],[{"text":"+0 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_boots_diamond":1,"inf_boots_emerald":1,"inf_boots_netherite":1,"inf_boots_gold":1,"inf_leggings_diamond":1,"inf_leggings_emerald":1,"inf_leggings_netherite":1,"inf_leggings_gold":1,"inf_chestplate_diamond":1,"inf_chestplate_emerald":1,"inf_chestplate_netherite":1,"inf_chestplate_gold":1,"inf_helmet_diamond":1,"inf_helmet_emerald":1,"inf_helmet_netherite":1,"inf_helmet_gold":1,"name":"Copper Ingot"}
+},
+    "count": 1,
+    "id": "minecraft:copper_ingot"
+  }
+}

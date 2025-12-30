@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:leather"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Overworld Sword Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+1 Sweeping Edge","italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+5 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_sword_diamond":1,"inf_sword_emerald":1,"name":"Book"}
+},
+    "count": 1,
+    "id": "minecraft:book"
+  }
+}

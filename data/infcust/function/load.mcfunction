@@ -12,6 +12,12 @@ scoreboard objectives add inf-kbres dummy
 scoreboard objectives add inf-atkspd dummy
 scoreboard objectives add inf-jump dummy
 scoreboard objectives add inf-falldist dummy
+scoreboard objectives add inf-entityrange dummy
+scoreboard objectives add inf-blockrange dummy
+scoreboard objectives add inf-scale dummy
+scoreboard objectives add inf-miningefficiency dummy
+scoreboard objectives add inf-submergedminingspeed dummy
+scoreboard objectives add inf-stepheight dummy
 
 scoreboard objectives add inf-ingredients dummy
 
@@ -46,3 +52,5 @@ scoreboard objectives add inf-aquaaffinity dummy
 scoreboard objectives add inf-knockback dummy
 scoreboard objectives add inf-fortune dummy
 scoreboard objectives add inf-freezeprot dummy
+scoreboard objectives add inf-experience dummy
+scoreboard objectives add inf-silktouch dummy

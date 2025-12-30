@@ -1,0 +1,15 @@
+bone Bone Armor Universal Common 0 attribute entity_interaction_range 3 5
+book Book Sword Overworld Common 5 enchantment sweeping_edge 1 1
+charcoal Charcoal Pickaxe Overworld Common 5 enchantment efficiency 1 1
+coal Coal Pickaxe Universal Common 1 attribute movement_speed 3 7
+gold_ingot Gold.Ingot Pickaxe Gold Common 10 enchantment fortune 2 2
+ink_sac Ink.Sac Boots Overworld Common 10 enchantment depth_strider 2 2
+iron_ingot Iron.Ingot Sword Universal Common 5 enchantment sharpness 1 1 attribute movement_speed -6 -2
+lapis_lazuli Lapis.Lazuli Chestplate Overworld Common 5 enchantment experience 1 1
+pufferfish Pufferfish Boots Overworld Common 3 enchantment thorns 1 1 enchantment depth_strider 1 2 attribute max_health -10 -5
+brick Brick Helmet Diamond Common 5 enchantment protection 1 2
+clay_ball Clay.Ball Helmet Diamond Common 0 enchantment protection 1 1
+copper_ingot Copper.Ingot Armor Universal Common 0 attribute armor_toughness 1 3
+feather Feather Sword Overworld Common 0 attribute movement_speed 10 30 attribute attack_damage -30 -10
+flint Flint Pickaxe Universal Common 10 enchantment silk_touch 1 1
+leather Leather Armor Overworld Common 0 enchantment freeze_protection 1 2 enchantment unbreaking 1 2

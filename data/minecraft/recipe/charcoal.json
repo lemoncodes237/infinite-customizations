@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient": "#minecraft:logs_that_burn",
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Overworld Pickaxe Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+1 Efficiency","italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+5 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_pickaxe_diamond":1,"inf_pickaxe_emerald":1,"name":"Charcoal"}
+},
+    "id": "minecraft:charcoal"
+  }
+}

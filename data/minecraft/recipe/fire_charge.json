@@ -14,7 +14,7 @@
       "minecraft:lore": [
         [{"text":"Common Nether Sword Ingredient","italic":false,"color":"gray"}],[{"text":""}],[{"text":"+1 Fire Aspect","italic":false,"color":"aqua"}],[{"text":" "}],[{"text":"+1 XP Cost","italic":false,"color":"dark_green"}]
       ],
-      "minecraft:custom_data": {"inf_ing":1,"inf_rarity":1,"inf_sword_gold":1,"inf_sword_netherite":1,"name":"Fire Charge"}
+      "minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_sword_gold":1,"inf_sword_netherite":1,"name":"Fire Charge"}
     },
     "count": 3,
     "id": "minecraft:fire_charge"

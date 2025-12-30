@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "iron_ingot",
+  "key": {
+    "#": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Universal Sword Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+1 Sharpness","italic":false,"color":"aqua"}],[{"text":"-6 to -2% Movement Speed","italic":false,"color":"red"}],[{"text":""}],[{"text":"+5 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_sword_diamond":1,"inf_sword_emerald":1,"inf_sword_netherite":1,"inf_sword_gold":1,"name":"Iron Ingot"}
+},
+    "count": 1,
+    "id": "minecraft:iron_ingot"
+  }
+}
