@@ -1,1 +1,1 @@
-execute if items entity @s container.0 charcoal run function infcust:craft/ingredients/charcoal
+execute if items entity @s container.0 poppy run function infcust:craft/ingredients/poppy

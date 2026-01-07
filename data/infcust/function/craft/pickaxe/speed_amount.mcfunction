@@ -8,3 +8,5 @@ execute if items entity @s container.0 netherite_pickaxe run scoreboard players 
 
 
 scoreboard players set #temp inf-atkspd -28
+
+# Created by Y-J

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "minecraft:netherrack",
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Netherite Helmet Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+1 to +2 Protection","italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+5 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_helmet_netherite":1,"name":"Nether Brick"}
+},
+    "id": "minecraft:nether_brick"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:diamond_block"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Rare Diamond Pickaxe Ingredient", "italic":false,"color":"light_purple"}],[{"text":""}],[{"text":"+1 Fortune","italic":false,"color":"aqua"}],[{"text":"+1 to +3 Efficiency","italic":false,"color":"aqua"}],[{"text":"+1 to +2 Unbreaking","italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+10 XP Cost","italic":false,"color":"yellow"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":3,"inf_pickaxe_diamond":1,"name":"Diamond"}
+},
+    "count": 9,
+    "id": "minecraft:diamond"
+  }
+}

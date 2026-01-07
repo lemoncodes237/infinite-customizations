@@ -85,6 +85,10 @@ class Stat {
         percent.add("scale");
         statsToName.put("scale", "Smaller Size");
 
+        statsToScore.put("gravity", "inf-gravity");
+        percent.add("gravity");
+        statsToName.put("gravity", "Less Gravity");
+
         statsToScore.put("protection", "inf-prot");
         integers.add("protection");
         statsToName.put("protection" , "Protection");
@@ -180,6 +184,10 @@ class Stat {
         statsToScore.put("experience", "inf-experience");
         integers.add("experience");
         statsToName.put("experience", "Experience");
+
+        statsToScore.put("bane_of_the_nether", "inf-baneofthenether");
+        integers.add("bane_of_the_nether");
+        statsToName.put("bane_of_the_nether", "Bane of the Nether");
     }
 
     public boolean write(FileWriter ing, FileWriter update) throws IOException {
@@ -199,7 +207,7 @@ class Stat {
             ing.write("scoreboard players operation #rollvalue inf-id += #amount inf-id\r\n\r\n");
         }
 
-        String color = ench ? "aqua" : (min < 0 ? "red" : "green");
+        String color = ench ? (min < 0 ? "dark_red" : "aqua") : (min < 0 ? (max > 0 ? "gold" : "red") : "green");
 
         if(min != max)  {
             int absMin = min < 0 ? -min : min;

@@ -18,6 +18,7 @@ scoreboard objectives add inf-scale dummy
 scoreboard objectives add inf-miningefficiency dummy
 scoreboard objectives add inf-submergedminingspeed dummy
 scoreboard objectives add inf-stepheight dummy
+scoreboard objectives add inf-gravity dummy
 
 scoreboard objectives add inf-ingredients dummy
 
@@ -54,3 +55,4 @@ scoreboard objectives add inf-fortune dummy
 scoreboard objectives add inf-freezeprot dummy
 scoreboard objectives add inf-experience dummy
 scoreboard objectives add inf-silktouch dummy
+scoreboard objectives add inf-baneofthenether dummy

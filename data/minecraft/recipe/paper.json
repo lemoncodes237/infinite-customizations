@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:sugar_cane"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Overworld Leggings Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"-1.0 to -0.5 Knockback Resistance","italic":false,"color":"red"}],[{"text":"+10 to +30% Movement Speed","italic":false,"color":"green"}],[{"text":""}],[{"text":"+0 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_leggings_diamond":1,"inf_leggings_emerald":1,"name":"Paper"}
+},
+
+    "count": 3,
+    "id": "minecraft:paper"
+  }
+}

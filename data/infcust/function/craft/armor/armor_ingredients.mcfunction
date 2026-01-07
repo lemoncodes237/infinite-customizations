@@ -3,3 +3,7 @@ execute if items entity @s container.0 gunpowder run function infcust:craft/ingr
 execute if items entity @s container.0 redstone run function infcust:craft/ingredients/redstone
 execute if items entity @s container.0 bone run function infcust:craft/ingredients/bone
 execute if items entity @s container.0 copper_ingot run function infcust:craft/ingredients/copper_ingot
+execute if items entity @s container.0 cornflower run function infcust:craft/ingredients/cornflower
+execute if items entity @s container.0 dandelion run function infcust:craft/ingredients/dandelion
+execute if items entity @s container.0 birch_sapling run function infcust:craft/ingredients/birch_sapling
+execute if items entity @s container.0 wildflowers run function infcust:craft/ingredients/wildflowers

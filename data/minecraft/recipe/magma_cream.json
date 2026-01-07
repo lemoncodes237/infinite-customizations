@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:blaze_powder",
+    "minecraft:slime_ball"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Nether Armor Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+2 to +4 Fire Protection","italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+0 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_boots_netherite":1,"inf_boots_gold":1,"inf_leggings_netherite":1,"inf_leggings_gold":1,"inf_chestplate_netherite":1,"inf_chestplate_gold":1,"inf_helmet_netherite":1,"inf_helmet_gold":1,"name":"Magma Cream"}
+},
+    "count": 1,
+    "id": "minecraft:magma_cream"
+  }
+}

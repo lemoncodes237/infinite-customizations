@@ -13,6 +13,7 @@ scoreboard players set #temp inf-scale 0
 scoreboard players set #temp inf-miningefficiency 0
 scoreboard players set #temp inf-submergedminingspeed 0
 scoreboard players set #temp inf-stepheight 0
+scoreboard players set #temp inf-gravity 0
 
 scoreboard players set #temp inf-cost 0
 scoreboard players set #temp inf-ingredients 0
@@ -46,3 +47,7 @@ scoreboard players set #temp inf-fortune 0
 scoreboard players set #temp inf-silktouch 0
 scoreboard players set #temp inf-freezeprot 0
 scoreboard players set #temp inf-experience 0
+scoreboard players set #temp inf-baneofthenether 0
+
+# Major ID resets
+scoreboard players set #inf-darkvision inf-id 0

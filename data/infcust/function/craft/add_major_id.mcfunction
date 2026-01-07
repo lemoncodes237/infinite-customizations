@@ -1,0 +1,1 @@
+execute if score #inf-darkvision inf-id matches 1.. run function infcust:craft/major_id/darkvision

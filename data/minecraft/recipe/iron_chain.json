@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "N": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    "N",
+    "I",
+    "N"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Emerald Armor Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+0.2 to +0.8 Armor","italic":false,"color":"green"}],[{"text":""}],[{"text":"+5 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_boots_emerald":1,"inf_leggings_emerald":1,"inf_chestplate_emerald":1,"inf_helmet_emerald":1,"name":"Iron Chain"}
+},
+    "count": 1,
+    "id": "minecraft:iron_chain"
+  }
+}

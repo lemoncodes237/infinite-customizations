@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "minecraft:copper_ingot",
+    "N": "minecraft:copper_nugget"
+  },
+  "pattern": [
+    "N",
+    "I",
+    "N"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Gold Pickaxe Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+1 to +3 Efficiency","italic":false,"color":"aqua"}],[{"text":"-2 to -1 Unbreaking","italic":false,"color":"dark_red"}],[{"text":""}],[{"text":"+5 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_pickaxe_gold":1,"name":"Copper Chain"}
+},
+    "count": 1,
+    "id": "minecraft:copper_chain"
+  }
+}

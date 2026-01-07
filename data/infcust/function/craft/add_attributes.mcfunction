@@ -54,6 +54,14 @@ execute unless score #temp inf-blockrange matches 0 run data modify storage infc
 execute unless score #temp inf-blockrange matches 0 store result storage infcust:attributes amount double 0.01 run scoreboard players get #temp inf-blockrange
 execute unless score #temp inf-blockrange matches 0 run function infcust:craft/attribute_macro with storage infcust:attributes
 
+execute unless score #temp inf-scale matches 0 run data modify storage infcust:attributes type set value "scale"
+execute unless score #temp inf-scale matches 0 store result storage infcust:attributes amount double -0.01 run scoreboard players get #temp inf-scale
+execute unless score #temp inf-scale matches 0 run function infcust:craft/attribute_macro with storage infcust:attributes
+
+execute unless score #temp inf-gravity matches 0 run data modify storage infcust:attributes type set value "gravity"
+execute unless score #temp inf-gravity matches 0 store result storage infcust:attributes amount double -0.01 run scoreboard players get #temp inf-gravity
+execute unless score #temp inf-gravity matches 0 run function infcust:craft/attribute_macro with storage infcust:attributes
+
 # Enchantments
 
 data modify storage infcust:attributes header set value "minecraft"
@@ -161,3 +169,10 @@ execute unless score #temp inf-freezeprot matches ..0 run function infcust:craft
 data modify storage infcust:attributes enchantment set value "experience"
 execute unless score #temp inf-experience matches ..0 store result storage infcust:attributes amount int 1 run scoreboard players get #temp inf-experience
 execute unless score #temp inf-experience matches ..0 run function infcust:craft/enchantment_macro with storage infcust:attributes
+
+data modify storage infcust:attributes enchantment set value "bane_of_the_nether"
+execute unless score #temp inf-baneofthenether matches ..0 store result storage infcust:attributes amount int 1 run scoreboard players get #temp inf-baneofthenether
+execute unless score #temp inf-baneofthenether matches ..0 run function infcust:craft/enchantment_macro with storage infcust:attributes
+
+# Onto Major IDs
+function infcust:craft/add_major_id

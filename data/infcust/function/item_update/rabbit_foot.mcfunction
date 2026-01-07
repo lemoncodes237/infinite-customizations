@@ -1,0 +1,5 @@
+data modify entity @s Item.components."minecraft:lore" set value [[{"text": "Rare Diamond Boots Ingredient", "italic":false,"color":"light_purple"}],[{"text":""}],[{"text":"-10.0 to -4.0 Max Health","italic":false,"color":"red"}],[{"text":"-6.0 to -3.0 Armor","italic":false,"color":"red"}],[{"text":"-3.0 to -1.0 Armor Toughness","italic":false,"color":"red"}],[{"text":"-2.0 to -1.5 Knockback Resistance","italic":false,"color":"red"}],[{"text":"-4 to -2 Protection","italic":false,"color":"dark_red"}],[{"text":"+40 to +80% Movement Speed","italic":false,"color":"green"}],[{"text":"+40 to +80% Jump Strength","italic":false,"color":"green"}],[{"text":"+2.0 to +5.0 Safe Fall Distance","italic":false,"color":"green"}],[{"text":"+3 to +5 Feather Falling","italic":false,"color":"aqua"}],[{"text":"+0.5 to +1.2 Attack Speed","italic":false,"color":"green"}],[{"text":""}],[{"text":"+15 XP Cost","italic":false,"color":"yellow"}]]
+
+data modify entity @s Item.components."minecraft:custom_data" set value {inf_ing:1b,inf_rarity:3b,inf_boots_diamond:1b}
+
+data modify entity @s Item.components."minecraft:custom_data".name set value "Rabbit Foot"
