@@ -9,6 +9,8 @@ execute if items entity @s container.0 pufferfish run function infcust:craft/ing
 execute if items entity @s container.0 blue_orchid run function infcust:craft/ingredients/blue_orchid
 execute if items entity @s container.0 prismarine_shard run function infcust:craft/ingredients/prismarine_shard
 execute if items entity @s container.0 sniffer_egg run function infcust:craft/ingredients/sniffer_egg
+execute if items entity @s container.0 resin_brick run function infcust:craft/ingredients/resin_brick
+execute if items entity @s container.0 pitcher_plant run function infcust:craft/ingredients/pitcher_plant
 
 
 scoreboard players operation #emeraldrv inf-id = #rollvalue inf-id

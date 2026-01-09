@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1,
+  "group": "gold_ingot",
+  "ingredient": "minecraft:nether_gold_ore",
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Gold Pickaxe Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":"+2 Fortune","italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+10 XP Cost","italic":false,"color":"yellow"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_pickaxe_gold":1,"name":"Gold Ingot"}
+},
+    "id": "minecraft:gold_ingot"
+  }
+}

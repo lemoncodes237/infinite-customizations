@@ -1,0 +1,34 @@
+glow_ink_sac Glow.Ink.Sac Helmet Diamond Common 0
+spider_eye Spider.Eye Sword Emerald Common 0 attribute attack_damage -10 -3
+emerald Emerald Chestplate Emerald Common 0 attribute armor -40 -20 attribute max_health -60 -30
+fermented_spider_eye Fermented.Spider.Eye Sword Emerald Common 15 attribute attack_damage -50 -30
+glowstone_dust Glowstone.Dust Chestplate Nether Common 0
+resin_brick Resin.Brick Boots Overworld Common 0
+ender_pearl Ender.Pearl Sword Nether Common 10 attribute attack_damage -20 -5
+chorus_flower Chorus.Flower Chestplate Nether Common 0
+closed_eyeblossom Closed.Eyeblossom Sword Overworld Common 5
+open_eyeblossom Open.Eyeblossom Sword Nether Common 5
+glow_lichen Glow.Lichen Sword Overworld Common 5
+dark_oak_sapling Dark.Oak.Sapling Helmet Emerald Common 5
+lily_of_the_valley Lily.of.the.Valley Sword Overworld Common 0 attribute attack_damage -20 -10
+pale_oak_sapling Pale.Oak.Sapling Chestplate Overworld Common 10
+poppy Poppy Pickaxe Diamond Common 0
+sunflower Sunflower Chestplate Overworld Common 10
+totem_of_undying Totem.of.Undying Leggings Netherite Rare 10 attribute armor 15 35 attribute max_health 20 60 attribute attack_speed -8 -2
+ghast_tear Ghast.Tear Sword Netherite Rare 10 attribute attack_speed -5 -2
+heart_of_the_sea Heart.of.the.Sea Boots Diamond Rare 5 enchantment depth_strider 1 1
+disc_fragment_5 Disc.Fragment Chestplate Diamond Rare 8
+echo_shard Echo.Shard Leggings Emerald Rare 5
+bell Bell Helmet Emerald Rare 10
+dried_ghast Dried.Ghast Sword Nether Rare 10 attribute max_health 20 80 attribute armor -30 -10
+pitcher_plant Pitcher.Plant Boots Overworld Rare 5 attribute armor -40 -20
+wither_rose Wither.Rose Sword Nether Rare 7
+wither_skeleton_skull Wither.Skeleton.Skull Leggings Nether Rare 25
+nether_star Nether.Star Helmet Netherite Legendary 12 attribute max_health -100 -40
+netherite_ingot Netherite.Ingot Pickaxe Netherite Legendary 15
+dragon_head Dragon.Head Boots Netherite Legendary 12 attribute armor -60 -30 attribute movement_speed 30 70
+heavy_core Heavy.Core Sword Netherite Legendary 12 attribute jump_strength 20 40 attribute safe_fall_distance 50 100 enchantment sharpness 2 4 attribute max_health -60 -40
+piglin_head Piglin.Head Helmet Netherite Legendary 15 attribute max_health 50 80 enchantment fire_protection 3 6 enchantment protection 2 4 attribute attack_damage -30 -20
+creeper_head Creeper.Head Sword Netherite Legendary 10 enchantment sharpness 3 5 attribute armor -120 -60 attribute attack_damage 10 30 attribute attack_speed 2 4 attribute scale 10 20 attribute max_health -30 -10
+zombie_head Zombie.Head Sword Overworld Legendary 10 attribute max_health 40 80 attribute movement_speed -45 -20
+popped_chorus_fruit Popped.Chorus.Fruit Leggings Nether Common 5 attribute max_health 10 30

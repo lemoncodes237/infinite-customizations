@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": "minecraft:iron_ingot",
+    "I": "minecraft:cobblestone"
+  },
+  "pattern": [
+    "C C",
+    "III",
+    " I "
+  ],
+  "result": {
+    "components": {
+        "item_name": [{"text":"Magic Table","italic":false}],
+        "custom_data": "{inf_magic_table:1}",
+        "entity_data": {"id":"item_frame","Invisible":true,"Tags":["inf_magic_table"]}
+    },
+    "count": 1,
+    "id": "minecraft:item_frame"
+  }
+}

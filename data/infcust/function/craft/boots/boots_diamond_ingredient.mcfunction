@@ -11,6 +11,9 @@ execute if items entity @s container.0 mangrove_propagule run function infcust:c
 execute if items entity @s container.0 prismarine_shard run function infcust:craft/ingredients/prismarine_shard
 execute if items entity @s container.0 sniffer_egg run function infcust:craft/ingredients/sniffer_egg
 execute if items entity @s container.0 rabbit_foot run function infcust:craft/ingredients/rabbit_foot
+execute if items entity @s container.0 resin_brick run function infcust:craft/ingredients/resin_brick
+execute if items entity @s container.0 heart_of_the_sea run function infcust:craft/ingredients/heart_of_the_sea
+execute if items entity @s container.0 pitcher_plant run function infcust:craft/ingredients/pitcher_plant
 
 
 scoreboard players operation #diamondrv inf-id = #rollvalue inf-id

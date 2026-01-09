@@ -19,13 +19,13 @@ ghast_tear Ghast.Tear Sword Netherite Rare 10 attribute attack_speed -5 -2
 heart_of_the_sea Heart.of.the.Sea Boots Diamond Rare 5 enchantment depth_strider 1 1
 disc_fragment_5 Disc.Fragment Chestplate Diamond Rare 8
 echo_shard Echo.Shard Leggings Emerald Rare 5
-bell Bell Helmet Emerald Rare 10
+bell Bell Sword Emerald Rare 10
 dried_ghast Dried.Ghast Sword Nether Rare 10 attribute max_health 20 80 attribute armor -30 -10
 pitcher_plant Pitcher.Plant Boots Overworld Rare 5 attribute armor -40 -20
 wither_rose Wither.Rose Sword Nether Rare 7
 wither_skeleton_skull Wither.Skeleton.Skull Leggings Nether Rare 25
 nether_star Nether.Star Helmet Netherite Legendary 12 attribute max_health -100 -40
-netherite_ingot Netherite.Ingot Pickaxe Netherite Legendary 15
+netherite_ingot Netherite.Ingot Pickaxe Netherite Legendary 15 enchantment mending 1 1 enchantment efficiency 3 5
 dragon_head Dragon.Head Boots Netherite Legendary 12 attribute armor -60 -30 attribute movement_speed 30 70
 heavy_core Heavy.Core Sword Netherite Legendary 12 attribute jump_strength 20 40 attribute safe_fall_distance 50 100 enchantment sharpness 2 4 attribute max_health -60 -40
 piglin_head Piglin.Head Helmet Netherite Legendary 15 attribute max_health 50 80 enchantment fire_protection 3 6 enchantment protection 2 4 attribute attack_damage -30 -20

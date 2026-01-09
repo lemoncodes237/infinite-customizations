@@ -6,5 +6,6 @@ execute if items entity @s container.0 amethyst_shard run function infcust:craft
 execute if items entity @s container.0 charcoal run function infcust:craft/ingredients/charcoal
 execute if items entity @s container.0 allium run function infcust:craft/ingredients/allium
 execute if items entity @s container.0 diamond run function infcust:craft/ingredients/diamond
+execute if items entity @s container.0 poppy run function infcust:craft/ingredients/poppy
 
 scoreboard players operation #diamondrv inf-id = #rollvalue inf-id

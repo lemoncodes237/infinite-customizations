@@ -1,0 +1,1 @@
+$title @s actionbar [{"text":"You have to wait $(cooldown)s before using this ability","color":"red"}]

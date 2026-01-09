@@ -10,5 +10,6 @@ execute if items entity @s container.0 rabbit_hide run function infcust:craft/in
 execute if items entity @s container.0 lily_pad run function infcust:craft/ingredients/lily_pad
 execute if items entity @s container.0 spruce_sapling run function infcust:craft/ingredients/spruce_sapling
 execute if items entity @s container.0 turtle_scute run function infcust:craft/ingredients/turtle_scute
+execute if items entity @s container.0 echo_shard run function infcust:craft/ingredients/echo_shard
 
 scoreboard players operation #emeraldrv inf-id = #rollvalue inf-id

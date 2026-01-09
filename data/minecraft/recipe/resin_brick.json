@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "minecraft:resin_clump",
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Common Overworld Boots Ingredient", "italic":false,"color":"gray"}],[{"text":""}],[{"text":""}],[{"text":"+0 XP Cost","italic":false,"color":"dark_green"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":2,"inf_boots_diamond":1,"inf_boots_emerald":1,"name":"Resin Brick"}
+},
+    "id": "minecraft:resin_brick"
+  }
+}

@@ -9,5 +9,6 @@ execute if items entity @s container.0 clay_ball run function infcust:craft/ingr
 execute if items entity @s container.0 nautilus_shell run function infcust:craft/ingredients/nautilus_shell
 execute if items entity @s container.0 jungle_sapling run function infcust:craft/ingredients/jungle_sapling
 execute if items entity @s container.0 honeycomb run function infcust:craft/ingredients/honeycomb
+execute if items entity @s container.0 glow_ink_sac run function infcust:craft/ingredients/glow_ink_sac
 
 scoreboard players operation #diamondrv inf-id = #rollvalue inf-id

@@ -7,5 +7,6 @@ function infcust:craft/armor/helmet_ingredients
 execute if items entity @s container.0 nautilus_shell run function infcust:craft/ingredients/nautilus_shell
 execute if items entity @s container.0 jungle_sapling run function infcust:craft/ingredients/jungle_sapling
 execute if items entity @s container.0 honeycomb run function infcust:craft/ingredients/honeycomb
+execute if items entity @s container.0 dark_oak_sapling run function infcust:craft/ingredients/dark_oak_sapling
 
 scoreboard players operation #emeraldrv inf-id = #rollvalue inf-id

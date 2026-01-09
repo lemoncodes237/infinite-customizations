@@ -50,4 +50,33 @@ scoreboard players set #temp inf-experience 0
 scoreboard players set #temp inf-baneofthenether 0
 
 # Major ID resets
+scoreboard players set #inf-endershift inf-id 0
 scoreboard players set #inf-darkvision inf-id 0
+scoreboard players set #inf-venomous inf-id 0
+scoreboard players set #inf-herosjourney inf-id 0
+scoreboard players set #inf-fragility inf-id 0
+scoreboard players set #inf-sneak inf-id 0
+scoreboard players set #inf-diurnal inf-id 0
+scoreboard players set #inf-nocturnal inf-id 0
+scoreboard players set #inf-clearsight inf-id 0
+scoreboard players set #inf-claustrophilia inf-id 0
+scoreboard players set #inf-antithesis inf-id 0
+scoreboard players set #inf-lunishield inf-id 0
+scoreboard players set #inf-helioshield inf-id 0
+scoreboard players set #inf-invincibility inf-id 0
+scoreboard players set #inf-outlier inf-id 0
+scoreboard players set #inf-aquavigor inf-id 0
+scoreboard players set #inf-subterranean inf-id 0
+scoreboard players set #inf-chihayaburu inf-id 0
+scoreboard players set #inf-photophage inf-id 0
+scoreboard players set #inf-bloodlust inf-id 0
+scoreboard players set #inf-sadistic inf-id 0
+scoreboard players set #inf-withering inf-id 0
+scoreboard players set #inf-winded inf-id 0
+scoreboard players set #inf-cultist inf-id 0
+scoreboard players set #inf-drill inf-id 0
+scoreboard players set #inf-malady inf-id 0
+scoreboard players set #inf-xin inf-id 0
+scoreboard players set #inf-ember inf-id 0
+scoreboard players set #inf-detonate inf-id 0
+scoreboard players set #inf-iatrophage inf-id 0

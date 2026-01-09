@@ -29,6 +29,7 @@ scoreboard players set #two inf-id 2
 scoreboard players set #three inf-id 3
 scoreboard players set #four inf-id 4
 scoreboard players set #five inf-id 5
+scoreboard players set #twenty inf-id 20
 
 # Enchantments
 scoreboard objectives add inf-prot dummy
@@ -56,3 +57,9 @@ scoreboard objectives add inf-freezeprot dummy
 scoreboard objectives add inf-experience dummy
 scoreboard objectives add inf-silktouch dummy
 scoreboard objectives add inf-baneofthenether dummy
+
+# Major ID stuff
+scoreboard objectives add inf-absorption-time dummy
+scoreboard objectives add inf-broken-stone mined:stone
+scoreboard objectives add inf-broken-deepslate mined:deepslate
+scoreboard objectives add inf-endershift-cooldown dummy

@@ -22,7 +22,7 @@
         "affected": "victim",
         "effect": {
           "type": "minecraft:run_function",
-          "function": "infcust:test"
+          "function": "infcust:sword_check"
         },
         "enchanted": "attacker",
         "requirements": {
@@ -32,7 +32,7 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type": "#minecraft:zombies"
+                "type": "#infcust:enemies"
               }
             },
             {

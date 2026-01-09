@@ -1,0 +1,1 @@
+execute if predicate infcust:below0 run effect give @s resistance 1 1 true

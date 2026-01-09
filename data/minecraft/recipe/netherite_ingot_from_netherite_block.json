@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "netherite_ingot",
+  "ingredients": [
+    "minecraft:netherite_block"
+  ],
+  "result": {
+    "components": {
+"minecraft:lore": [[{"text": "Legendary Netherite Pickaxe Ingredient", "italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+1 Mending","italic":false,"color":"aqua"}],[{"text":"+3 to +5 Efficiency","italic":false,"color":"aqua"}],[{"text":""}],[{"text":"+15 XP Cost","italic":false,"color":"yellow"}]],
+"minecraft:custom_data": {"inf_ing":1,"inf_rarity":4,"inf_pickaxe_netherite":1,"name":"Netherite Ingot"}
+},
+    "count": 9,
+    "id": "minecraft:netherite_ingot"
+  }
+}

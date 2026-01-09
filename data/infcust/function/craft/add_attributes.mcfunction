@@ -23,7 +23,7 @@ execute unless score #temp inf-kbres matches 0 store result storage infcust:attr
 execute unless score #temp inf-kbres matches 0 run function infcust:craft/attribute_macro with storage infcust:attributes
 
 execute unless score #temp inf-atk matches 0 run data modify storage infcust:attributes type set value "attack_damage"
-execute unless score #temp inf-atk matches 0 store result storage infcust:attributes amount int 0.1 run scoreboard players get #temp inf-atk
+execute unless score #temp inf-atk matches 0 store result storage infcust:attributes amount double 0.1 run scoreboard players get #temp inf-atk
 execute unless score #temp inf-atk matches 0 run function infcust:craft/attribute_macro with storage infcust:attributes
 
 execute unless score #temp inf-atkspd matches 0 run data modify storage infcust:attributes type set value "attack_speed"

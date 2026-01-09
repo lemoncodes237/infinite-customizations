@@ -1,0 +1,10 @@
+execute if entity @s[distance=..1] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 0.5 infcust:no_cooldown by @s
+execute if entity @s[distance=..2] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 1 infcust:no_cooldown by @s
+execute if entity @s[distance=..3] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 1.5 infcust:no_cooldown by @s
+execute if entity @s[distance=..4] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 2 infcust:no_cooldown by @s
+execute if entity @s[distance=..5] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 2.5 infcust:no_cooldown by @s
+execute if entity @s[distance=..6] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 3 infcust:no_cooldown by @s
+execute if entity @s[distance=..7] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 3.5 infcust:no_cooldown by @s
+execute if entity @s[distance=..8] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 4 infcust:no_cooldown by @s
+execute if entity @s[distance=..9] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 4.5 infcust:no_cooldown by @s
+execute if entity @s[distance=..10] run return run damage @e[type=#infcust:enemies,tag=inf_attacked_temp,distance=..0,limit=1] 5 infcust:no_cooldown by @s
