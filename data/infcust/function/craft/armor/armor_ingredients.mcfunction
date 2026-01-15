@@ -7,3 +7,4 @@ execute if items entity @s container.0 cornflower run function infcust:craft/ing
 execute if items entity @s container.0 dandelion run function infcust:craft/ingredients/dandelion
 execute if items entity @s container.0 birch_sapling run function infcust:craft/ingredients/birch_sapling
 execute if items entity @s container.0 wildflowers run function infcust:craft/ingredients/wildflowers
+execute if items entity @s container.0 magenta_dye[custom_data~{inf_dragon_wing:1b}] run function infcust:craft/ingredients/dragon_wing

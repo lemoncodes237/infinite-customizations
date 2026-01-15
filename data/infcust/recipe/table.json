@@ -14,7 +14,8 @@
     "components": {
         "item_name": [{"text":"Magic Table","italic":false}],
         "custom_data": "{inf_magic_table:1}",
-        "entity_data": {"id":"item_frame","Invisible":true,"Tags":["inf_magic_table"]}
+        "entity_data": {"id":"item_frame","Invisible":true,"Tags":["inf_magic_table"]},
+        "item_model": "infcust:magic_table"
     },
     "count": 1,
     "id": "minecraft:item_frame"
