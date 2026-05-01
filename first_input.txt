@@ -13,3 +13,4 @@ copper_ingot Copper.Ingot Armor Universal Common 0 attribute armor_toughness 1 3
 feather Feather Sword Overworld Common 0 attribute movement_speed 10 30 attribute attack_damage -30 -10
 flint Flint Pickaxe Universal Common 10 enchantment silk_touch 1 1
 leather Leather Armor Overworld Common 0 enchantment freeze_protection 1 2 enchantment unbreaking 1 2
+hehe
